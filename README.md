@@ -16,8 +16,11 @@ NodeParty 开源基金会是一个**新型的**、**纯公益性质的**、**开
 
 * [芋头](https://github.com/xinyu198736) 主事
 * [XadillaX](https://github.com/XadillaX) 管理员
+* [小问](https://github.com/iwillwen) 管理员
 
 您也可以申请加入此组织，请联系以上维护者中至少一位，并且通过 3 人以上推荐即可进入维护者列表，拥有监督此基金会所有流程的权利。
+
+加入维护者列表，需
 
 ## 资金管理流程
 
