@@ -75,11 +75,11 @@ commit log 需按照此格式
 
 ## 赞助列表（活动收入挂在讲师名下记录，其他赞助个人和企业名义记录）
 
-| 捐赠者 | 金额(元) | 时间| 收入类型 |
-|-------|-----|------------|----------|
-| @Keith-CY | 150.00 | 2017-08-02 | 个人赞助 |
-| @longtianye  | 200.88 | 2017-08-02 | 个人赞助 |
-| @芋头  | 2000.00 | 2017-08-06 | 个人赞助 |
+| 捐赠者 | 金额(元) | 时间| 收入类型 | 记录 issue |
+|-------|-----|------------|----------|-----------|
+| @Keith-CY | 150.00 | 2017-08-02 | 个人赞助 | [记录链接](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/2) |
+| @longtianye  | 200.88 | 2017-08-02 | 个人赞助 | [记录链接](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/3) |
+| @芋头  | 2000.00 | 2017-08-06 | 个人赞助 | [记录链接](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/5) |
 
 ## 当前资金池
 
