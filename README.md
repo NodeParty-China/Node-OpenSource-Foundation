@@ -83,13 +83,14 @@ commit log 需按照此格式
 | @longtianye  | 200.88 | 2017-08-02 | 个人赞助 | [记录链接](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/3) |
 | @芋头  | 2000.00 | 2017-08-06 | 个人赞助 | [记录链接](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/5) |
 | @huanglong  | 1024.00 | 2017-08-06 | 个人赞助 | [记录链接](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/6) |
+| @int64ago  | 100.00 | 2017-08-06 | 个人赞助 | [记录链接](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/7) |
 
 
 ## 当前资金池
 
 ```money
-总额：3374.88 元
-本月收入：3374.88 元
+总额：3474.88 元
+本月收入：3474.88 元
 本月支出：0 元
 ```
 
