@@ -1,6 +1,8 @@
 #  NodeParty 开源基金会运作草案
 ## 组织介绍
 
+[](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/raw/master/img/LOGO-G-250.png)
+
 NodeParty 开源基金会是一个**新型的**、**纯公益性质的**、**开源的** 基金会，它用标准严谨的开源流程来管理资金，由社区具有一定影响力的开发者共同监督和维护。
 
 建立此开源基金会的初衷是：
