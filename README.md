@@ -69,7 +69,7 @@ commit log 需按照此格式
 ## 赞助流程
 
 1. 赞助方提交 issue，标题格式 `present donate: ${日期} ${事项} ${赞助金额} `。请在 issue 里提交联系方式等详细信息。
-2. 由主事或管理员联系赞助方，接受资金转入，将截图添加到 issue，关闭 issue，为防止记录混乱，暂不公布打款账号。
+2. 由主事或管理员联系赞助方，接受资金转入（专用支付宝账号：xinyu198736@gmail.com），将截图添加到 issue，关闭 issue。
 3. 主事 提交 收入记录 到 income.md。
 4. 主事 将赞助对象添加到 赞助列表。可带有 logo 和链接。
 
@@ -88,3 +88,7 @@ commit log 需按照此格式
 本月收入：2350.88 元
 本月支出：0 元
 ```
+
+余额截图：
+
+ ![](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/raw/master/img/yue.png)
