@@ -112,9 +112,9 @@ Commit Message 需按照此格式：
 
 感谢以下开源组织的赞助：
 
-![](./img/san_logo.png)](https://ecomfe.github.io/san/)
+[![](./img/san_logo.png)](https://ecomfe.github.io/san/)
 
-![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
+[![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
