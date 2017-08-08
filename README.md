@@ -128,4 +128,4 @@ Commit Message 需按照此格式：
 
 ### 余额截图
 
-![余额截图](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/raw/master/img/yue.jpeg)
+![余额截图](./img/yue.jpeg)
