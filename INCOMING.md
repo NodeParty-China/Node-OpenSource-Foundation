@@ -9,3 +9,5 @@
 | @int64ago  | 100.00 | 2017-08-06 | 个人赞助 | 这种形式不错，支持下 |
 | @掘金  | 2000.00 | 2017-08-08 | 企业赞助 | https://juejin.im |
 | @diysimon  | 200.00 | 2017-08-08 | 个人赞助 | 祖明个人赞助 |
+| @ECharts  | 666.00 | 2017-08-08 | 开源组织赞助 | https://ecomfe.github.io/san/ |
+| @SAN  | 666.00 | 2017-08-08 | 开源组织赞助 | https://github.com/ecomfe/echarts |

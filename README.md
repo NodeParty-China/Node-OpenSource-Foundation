@@ -103,10 +103,18 @@ Commit Message 需按照此格式：
 | @int64ago  | 100.00 | 2017-08-06 | 个人赞助 | [#7](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/7) |
 | @掘金  | 2000.00 | 2017-08-08 | 企业赞助 | [#8](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/8) |
 | @diysimon  | 200.00 | 2017-08-08 | 个人赞助 | [#13](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/13) |
+| @ECharts  | 666.00 | 2017-08-08 | 开源组织赞助 | [#14](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/14) |
+| @SAN  | 666.00 | 2017-08-08 | 开源组织赞助 | [#15](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/15) |
 
 感谢以下企业的赞助：
 
 [![](./img/juejin_logo.png)](https://juejin.im)
+
+感谢以下开源组织的赞助：
+
+![](./img/san_logo.png)](https://ecomfe.github.io/san/)
+
+![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
@@ -121,8 +129,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 5474.88 元 |
-| **本月收入** | 5474.88 元 |
+| **总额** | 7006.88 元 |
+| **本月收入** | 7006.88 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
 
