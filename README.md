@@ -101,6 +101,12 @@ Commit Message 需按照此格式：
 | @xinyu198736  | 2000.00 | 2017-08-06 | 个人赞助 | [#5](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/5) |
 | @huanglong  | 1024.00 | 2017-08-06 | 个人赞助 | [#6](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/6) |
 | @int64ago  | 100.00 | 2017-08-06 | 个人赞助 | [#7](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/7) |
+| @掘金  | 2000.00 | 2017-08-08 | 企业赞助 | [#8](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/8) |
+
+感谢以下企业的赞助：
+
+[![](./img/juejin_logo.png)](https://juejin.im)
+
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
@@ -115,11 +121,11 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 3474.88 元 |
-| **本月收入** | 3474.88 元 |
+| **总额** | 5474.88 元 |
+| **本月收入** | 5474.88 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
 
 ### 余额截图
 
-![余额截图](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/raw/master/img/yue.png)
+![余额截图](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/raw/master/img/yue.jpeg)
