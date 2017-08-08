@@ -102,11 +102,11 @@ Commit Message 需按照此格式：
 | @huanglong  | 1024.00 | 2017-08-06 | 个人赞助 | [#6](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/6) |
 | @int64ago  | 100.00 | 2017-08-06 | 个人赞助 | [#7](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/7) |
 | @掘金  | 2000.00 | 2017-08-08 | 企业赞助 | [#8](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/8) |
+| @diysimon  | 200.00 | 2017-08-08 | 个人赞助 | [#13](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/13) |
 
 感谢以下企业的赞助：
 
 [![](./img/juejin_logo.png)](https://juejin.im)
-
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
