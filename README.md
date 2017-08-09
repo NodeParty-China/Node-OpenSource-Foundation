@@ -106,10 +106,13 @@ Commit Message 需按照此格式：
 | @ECharts  | 666.00 | 2017-08-08 | 开源组织赞助 | [#14](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/14) |
 | @SAN  | 666.00 | 2017-08-08 | 开源组织赞助 | [#15](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/15) |
 | @轻山科技  | 2000.00 | 2017-08-09 | 企业赞助 | [#16](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/16) |
+| @100offer  | 3000.00 | 2017-08-09 | 企业赞助 | [#17](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/17) |
 
 感谢以下企业的赞助：
 
 [![](./img/juejin_logo.png)](https://juejin.im)
+
+[![](./img/100offer_logo.jpg)](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
 
 [![](./img/qingshan_logo.png)](http://bbdk.xiaoxinjin.com/)
 
