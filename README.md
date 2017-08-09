@@ -123,6 +123,7 @@ Commit Message 需按照此格式：
 * [芋头](https://github.com/xinyu198736)（主事）- @xinyu198736 &lt;xinyu198736@gmail.com>
 * [死月](https://github.com/XadillaX)（管理员）- @XadillaX &lt;i@2333.moe>
 * [小问](https://github.com/iwillwen)（管理员）- @iwillwen &lt;willwengunn@gmail.com>
+* [闪总](https://github.com/ShiningRay)（管理员）- @ShiningRay &lt;tsowly@hotmail.com>
 
 ## 当前资金池
 
