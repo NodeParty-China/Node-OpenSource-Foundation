@@ -107,6 +107,7 @@ Commit Message 需按照此格式：
 | @SAN  | 666.00 | 2017-08-08 | 开源组织赞助 | [#15](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/15) |
 | @轻山科技  | 2000.00 | 2017-08-09 | 企业赞助 | [#16](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/16) |
 | @100offer  | 3000.00 | 2017-08-09 | 企业赞助 | [#17](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/17) |
+| @TevinLi  | 100.00 | 2017-08-10 | 个人赞助 | [#18](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/18) |
 
 感谢以下企业的赞助：
 
@@ -137,8 +138,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 9006.88 元 |
-| **本月收入** | 9006.88 元 |
+| **总额** | 9106.88 元 |
+| **本月收入** | 9106.88 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
 
