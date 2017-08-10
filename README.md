@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-12706.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-15%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430.00%20元-blue.svg) 
+![](https://img.shields.io/badge/余额-13372.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-16%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430.00%20元-blue.svg) 
 
 ## 组织介绍
 
@@ -113,6 +113,7 @@ Commit Message 需按照此格式：
 | @又拍云  | 3000.00 | 2017-08-10 | 企业赞助 | [#19](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/19) |
 | @xiaojue  | 500.00 | 2017-08-10 | 个人赞助 | [#20](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/20) |
 | @5265liu  | 100.00 | 2017-08-10 | 个人赞助 | [#21](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/21) |
+| @内推小王子  | 666.00 | 2017-08-11 | 个人赞助 | [#22](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/22) |
 
 感谢以下个人的赞助：
 
@@ -138,16 +139,17 @@ Commit Message 需按照此格式：
 [![](./img/qingshan_logo.png)](http://bbdk.xiaoxinjin.com/)
 [![](./img/youpai_logo.png)](https://www.upyun.com/)
 
-感谢以下开源组织的赞助：
+感谢以下开源组织或个人组织的赞助：
 
 ![](https://img.shields.io/badge/SAN-666元-brightgreen.svg)
 ![](https://img.shields.io/badge/ECharts-666元-brightgreen.svg)
 ![](https://img.shields.io/badge/兔耳日记-500元-brightgreen.svg)
+![](https://img.shields.io/badge/内推小王子-666元-brightgreen.svg)
 
 [![](./img/tuer_logo.png)](http://www.tuer.me)
 [![](./img/san_logo.png)](https://ecomfe.github.io/san/)
 [![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
-
+![](./img/neitui_logo.png)
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
@@ -164,8 +166,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 12706.88 元 |
-| **本月收入** | 12706.88 元 |
+| **总额** | 13372.88 元 |
+| **本月收入** | 13372.88 元 |
 | **待入账** | 5430.00 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
