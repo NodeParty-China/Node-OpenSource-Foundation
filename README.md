@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-9106.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-12%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430%20元-blue.svg) 
+![](https://img.shields.io/badge/余额-12106.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-13%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430.00%20元-blue.svg) 
 
 ## 组织介绍
 
@@ -110,6 +110,7 @@ Commit Message 需按照此格式：
 | @轻山科技  | 2000.00 | 2017-08-09 | 企业赞助（纯公益） | [#16](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/16) |
 | @100offer  | 3000.00 | 2017-08-09 | 企业赞助 | [#17](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/17) |
 | @TevinLi  | 100.00 | 2017-08-10 | 个人赞助 | [#18](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/18) |
+| @又拍云  | 3000.00 | 2017-08-10 | 企业赞助 | [#19](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/19) |
 
 感谢以下企业的赞助：
 
@@ -118,6 +119,8 @@ Commit Message 需按照此格式：
 [![](./img/100offer_logo.jpg)](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
 
 [![](./img/qingshan_logo.png)](http://bbdk.xiaoxinjin.com/)
+
+[![](./img/youpai_logo.png)](https://www.upyun.com/)
 
 感谢以下开源组织的赞助：
 
@@ -140,8 +143,9 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 9106.88 元 |
-| **本月收入** | 9106.88 元 |
+| **总额** | 12106.88 元 |
+| **本月收入** | 12106.88 元 |
+| **待入账** | 5430.00 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
 

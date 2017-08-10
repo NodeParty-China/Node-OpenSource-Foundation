@@ -14,3 +14,4 @@
 | @轻山科技  | 2000.00 | 2017-08-09 | 企业赞助 | 轻山科技 支持杭州 NodeParty 开源基金会为新技术原创技术内容的贡献。 |
 | @100offer  | 3000.00 | 2017-08-09 | 企业赞助 | [100offer官网](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty) |
 | @TevinLi  | 100.00 | 2017-08-10 | 个人赞助 | amWiki 轻文库，支持开源事业 |
+| @又拍云  | 3000.00 | 2017-08-10 | 企业赞助 | [又拍官网](https://www.upyun.com/) |
