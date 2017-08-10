@@ -1,4 +1,4 @@
-#  NodeParty 开源基金会运作草案
+#  NodeParty 开源基金会运作草案![](https://img.shields.io/badge/余额-9106.88 元-green.svg) ![](https://img.shields.io/badge/赞助笔数-12 笔-green.svg)
 
 ## 组织介绍
 
