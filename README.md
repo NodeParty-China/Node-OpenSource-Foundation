@@ -128,11 +128,10 @@ Commit Message 需按照此格式：
 
 感谢以下企业的赞助：
 
-
-![](https://img.shields.io/badge/掘金-2000元-red.svg)
-![](https://img.shields.io/badge/轻山科技-2000元-red.svg)
 ![](https://img.shields.io/badge/100offer-3000元-red.svg)
 ![](https://img.shields.io/badge/又拍云-3000元-red.svg)
+![](https://img.shields.io/badge/掘金-2000元-red.svg)
+![](https://img.shields.io/badge/轻山科技-2000元-red.svg)
 
 [![](./img/juejin_logo.png)](https://juejin.im)
 [![](./img/100offer_logo.jpg)](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
@@ -141,13 +140,14 @@ Commit Message 需按照此格式：
 
 感谢以下开源组织的赞助：
 
-![](https://img.shields.io/badge/SAN-666元-green.svg)
-![](https://img.shields.io/badge/ECharts-666元-green.svg)
-![](https://img.shields.io/badge/兔耳日记-500元-green.svg)
+![](https://img.shields.io/badge/SAN-666元-blue.svg)
+![](https://img.shields.io/badge/ECharts-666元-blue.svg)
+![](https://img.shields.io/badge/兔耳日记-500元-blue.svg)
 
+[![](./img/tuer_logo.png)](http://www.tuer.me)
 [![](./img/san_logo.png)](https://ecomfe.github.io/san/)
 [![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
-[![](./img/tuer_logo.png)](http://www.tuer.me)
+
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
