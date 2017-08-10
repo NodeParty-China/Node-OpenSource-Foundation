@@ -116,15 +116,15 @@ Commit Message 需按照此格式：
 
 感谢以下个人的赞助：
 
-![](https://img.shields.io/badge/KeithCY-150元-green.svg?style=social)
-![](https://img.shields.io/badge/longtianye-200元-green.svg?style=social)
-![](https://img.shields.io/badge/xinyu198736-2000元-green.svg?style=social)
-![](https://img.shields.io/badge/huanglong-1024元-green.svg?style=social)
-![](https://img.shields.io/badge/int64ago-100元-green.svg?style=social)
-![](https://img.shields.io/badge/diysimon-200元-green.svg?style=social)
-![](https://img.shields.io/badge/TevinLi-100元-green.svg?style=social)
-![](https://img.shields.io/badge/xiaojue-500元-green.svg?style=social)
-![](https://img.shields.io/badge/5265liu-100元-green.svg?style=social)
+[![](https://img.shields.io/badge/KeithCY-150元-orange.svg)
+![](https://img.shields.io/badge/longtianye-200元-orange.svg)
+![](https://img.shields.io/badge/xinyu198736-2000元-orange.svg)
+![](https://img.shields.io/badge/huanglong-1024元-orange.svg)
+![](https://img.shields.io/badge/int64ago-100元-orange.svg)
+![](https://img.shields.io/badge/diysimon-200元-orange.svg)
+![](https://img.shields.io/badge/TevinLi-100元-orange.svg)
+![](https://img.shields.io/badge/xiaojue-500元-orange.svg)
+![](https://img.shields.io/badge/5265liu-100元-orange.svg)
 
 感谢以下企业的赞助：
 
