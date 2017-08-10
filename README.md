@@ -114,6 +114,18 @@ Commit Message 需按照此格式：
 | @xiaojue  | 500.00 | 2017-08-10 | 个人赞助 | [#20](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/20) |
 | @5265liu  | 100.00 | 2017-08-10 | 个人赞助 | [#21](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/21) |
 
+感谢以下个人的赞助：
+
+![](https://img.shields.io/badge/KeithCY-150元-green.svg?style=social)
+![](https://img.shields.io/badge/longtianye-200元-green.svg?style=social)
+![](https://img.shields.io/badge/xinyu198736-2000元-green.svg?style=social)
+![](https://img.shields.io/badge/huanglong-1024元-green.svg?style=social)
+![](https://img.shields.io/badge/int64ago-100元-green.svg?style=social)
+![](https://img.shields.io/badge/diysimon-200元-green.svg?style=social)
+![](https://img.shields.io/badge/TevinLi-100元-green.svg?style=social)
+![](https://img.shields.io/badge/xiaojue-500元-green.svg?style=social)
+![](https://img.shields.io/badge/5265liu-100元-green.svg?style=social)
+
 感谢以下企业的赞助：
 
 [![](./img/juejin_logo.png)](https://juejin.im)
