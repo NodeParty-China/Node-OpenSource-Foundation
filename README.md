@@ -140,9 +140,9 @@ Commit Message 需按照此格式：
 
 感谢以下开源组织的赞助：
 
-![](https://img.shields.io/badge/SAN-666元-blue.svg)
-![](https://img.shields.io/badge/ECharts-666元-blue.svg)
-![](https://img.shields.io/badge/兔耳日记-500元-blue.svg)
+![](https://img.shields.io/badge/SAN-666元-brightgreen.svg)
+![](https://img.shields.io/badge/ECharts-666元-brightgreen.svg)
+![](https://img.shields.io/badge/兔耳日记-500元-brightgreen.svg)
 
 [![](./img/tuer_logo.png)](http://www.tuer.me)
 [![](./img/san_logo.png)](https://ecomfe.github.io/san/)
