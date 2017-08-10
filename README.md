@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-12606.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-14%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430.00%20元-blue.svg) 
+![](https://img.shields.io/badge/余额-12706.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-15%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430.00%20元-blue.svg) 
 
 ## 组织介绍
 
@@ -112,6 +112,7 @@ Commit Message 需按照此格式：
 | @TevinLi  | 100.00 | 2017-08-10 | 个人赞助 | [#18](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/18) |
 | @又拍云  | 3000.00 | 2017-08-10 | 企业赞助 | [#19](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/19) |
 | @xiaojue  | 500.00 | 2017-08-10 | 个人赞助 | [#20](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/20) |
+| @5265liu  | 100.00 | 2017-08-10 | 个人赞助 | [#21](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/21) |
 
 感谢以下企业的赞助：
 
@@ -146,8 +147,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 12606.88 元 |
-| **本月收入** | 12606.88 元 |
+| **总额** | 12706.88 元 |
+| **本月收入** | 12706.88 元 |
 | **待入账** | 5430.00 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
