@@ -141,10 +141,12 @@ Commit Message 需按照此格式：
 
 感谢以下开源组织的赞助：
 
+![](https://img.shields.io/badge/SAN-666元-green.svg)
+![](https://img.shields.io/badge/ECharts-666元-green.svg)
+![](https://img.shields.io/badge/兔耳日记-500元-green.svg)
+
 [![](./img/san_logo.png)](https://ecomfe.github.io/san/)
-
 [![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
-
 [![](./img/tuer_logo.png)](http://www.tuer.me)
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
