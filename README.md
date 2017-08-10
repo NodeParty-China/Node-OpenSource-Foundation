@@ -116,7 +116,7 @@ Commit Message 需按照此格式：
 
 感谢以下个人的赞助：
 
-[![](https://img.shields.io/badge/KeithCY-150元-orange.svg)
+![](https://img.shields.io/badge/KeithCY-150元-orange.svg)
 ![](https://img.shields.io/badge/longtianye-200元-orange.svg)
 ![](https://img.shields.io/badge/xinyu198736-2000元-orange.svg)
 ![](https://img.shields.io/badge/huanglong-1024元-orange.svg)
