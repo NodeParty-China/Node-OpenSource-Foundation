@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-13372.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-16%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430.00%20元-blue.svg) 
+![](https://img.shields.io/badge/余额-13872.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-17%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5430.00%20元-blue.svg) 
 
 ## 组织介绍
 
@@ -114,6 +114,7 @@ Commit Message 需按照此格式：
 | @xiaojue  | 500.00 | 2017-08-10 | 个人赞助 | [#20](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/20) |
 | @5265liu  | 100.00 | 2017-08-10 | 个人赞助 | [#21](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/21) |
 | @内推小王子  | 666.00 | 2017-08-11 | 个人赞助 | [#22](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/22) |
+| @mindb  | 500.00 | 2017-08-11 | 开源赞助 | [#23](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/23) |
 
 感谢以下个人的赞助：
 
@@ -129,10 +130,10 @@ Commit Message 需按照此格式：
 
 感谢以下企业的赞助：
 
-![](https://img.shields.io/badge/100offer-3000元-red.svg)
-![](https://img.shields.io/badge/又拍云-3000元-red.svg)
-![](https://img.shields.io/badge/掘金-2000元-red.svg)
-![](https://img.shields.io/badge/轻山科技-2000元-red.svg)
+![](https://img.shields.io/badge/100offer-3000元-orange.svg)
+![](https://img.shields.io/badge/又拍云-3000元-orange.svg)
+![](https://img.shields.io/badge/掘金-2000元-orange.svg)
+![](https://img.shields.io/badge/轻山科技-2000元-orange.svg)
 
 [![](./img/juejin_logo.png)](https://juejin.im)
 [![](./img/100offer_logo.jpg)](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
@@ -141,15 +142,17 @@ Commit Message 需按照此格式：
 
 感谢以下开源组织或个人组织的赞助：
 
-![](https://img.shields.io/badge/SAN-666元-brightgreen.svg)
-![](https://img.shields.io/badge/ECharts-666元-brightgreen.svg)
-![](https://img.shields.io/badge/兔耳日记-500元-brightgreen.svg)
-![](https://img.shields.io/badge/内推小王子-666元-brightgreen.svg)
+![](https://img.shields.io/badge/SAN-666元-orange.svg)
+![](https://img.shields.io/badge/ECharts-666元-orange.svg)
+![](https://img.shields.io/badge/兔耳日记-500元-orange.svg)
+![](https://img.shields.io/badge/内推小王子-666元-orange.svg)
+![](https://img.shields.io/badge/mindb-500元-orange.svg)
 
 [![](./img/tuer_logo.png)](http://www.tuer.me)
 [![](./img/san_logo.png)](https://ecomfe.github.io/san/)
 [![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
 ![](./img/neitui_logo.png)
+[![](./img/mindb_logo.png)](https://github.com/iwillwen/mindb)
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
@@ -166,8 +169,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 13372.88 元 |
-| **本月收入** | 13372.88 元 |
+| **总额** | 13872.88 元 |
+| **本月收入** | 13872.88 元 |
 | **待入账** | 5430.00 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
