@@ -148,11 +148,11 @@ Commit Message 需按照此格式：
 ![](https://img.shields.io/badge/内推小王子-666元-orange.svg)
 ![](https://img.shields.io/badge/mindb-500元-orange.svg)
 
+[![](./img/mindb_logo.png)](https://github.com/iwillwen/mindb)
 [![](./img/tuer_logo.png)](http://www.tuer.me)
 [![](./img/san_logo.png)](https://ecomfe.github.io/san/)
 [![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
 ![](./img/neitui_logo.png)
-[![](./img/mindb_logo.png)](https://github.com/iwillwen/mindb)
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
