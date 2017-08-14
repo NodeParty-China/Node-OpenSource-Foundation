@@ -21,3 +21,4 @@
 | @mindb  | 500.00 | 2017-08-11 | 开源赞助 | https://github.com/iwillwen/mindb |
 | @王子亭  | 200.00 | 2017-08-14 | 个人赞助 | https://github.com/jysperm |
 | @老雷  | 233.00 | 2017-08-14 | 个人赞助 | https://github.com/leizongmin |
+| @阴明  | 200.00 | 2017-08-14 | 个人赞助 | https://github.com/kalasoo |
