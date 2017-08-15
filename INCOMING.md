@@ -27,3 +27,4 @@
 | @点我达大前端 | 200.00 | 2017-08-15 | 个人赞助 | [#30](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/30) |
 | @yizuierguo | 300.00 | 2017-08-15 | 个人赞助 | [#32](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/32) |
 | @cuiyongjian | 100.00 | 2017-08-15 | 个人赞助 | [#31](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/31) |
+| @whatwewant | 100.00 | 2017-08-15 | 个人赞助 | [#33](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/33) |
