@@ -125,10 +125,10 @@ Commit Message 需按照此格式：
 
 感谢以下企业的赞助：
 
-![](https://img.shields.io/badge/100offer-3000元-orange.svg)
-![](https://img.shields.io/badge/又拍云-3000元-orange.svg)
-![](https://img.shields.io/badge/掘金-2000元-orange.svg)
-![](https://img.shields.io/badge/轻山科技-2000元-orange.svg)
+![](https://img.shields.io/badge/100offer-3000元-green.svg)
+![](https://img.shields.io/badge/又拍云-3000元-green.svg)
+![](https://img.shields.io/badge/掘金-2000元-green.svg)
+![](https://img.shields.io/badge/轻山科技-2000元-green.svg)
 
 [![](./img/juejin_logo.png)](https://juejin.im)
 [![](./img/100offer_logo.jpg)](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
@@ -137,11 +137,11 @@ Commit Message 需按照此格式：
 
 感谢以下开源组织或个人组织的赞助：
 
-![](https://img.shields.io/badge/SAN-666元-orange.svg)
-![](https://img.shields.io/badge/ECharts-666元-orange.svg)
-![](https://img.shields.io/badge/兔耳日记-500元-orange.svg)
-![](https://img.shields.io/badge/内推小王子-666元-orange.svg)
-![](https://img.shields.io/badge/mindb-500元-orange.svg)
+![](https://img.shields.io/badge/SAN-666元-green.svg)
+![](https://img.shields.io/badge/ECharts-666元-green.svg)
+![](https://img.shields.io/badge/兔耳日记-500元-green.svg)
+![](https://img.shields.io/badge/内推小王子-666元-green.svg)
+![](https://img.shields.io/badge/mindb-500元-green.svg)
 
 [![](./img/mindb_logo.png)](https://github.com/iwillwen/mindb)
 [![](./img/tuer_logo.png)](http://www.tuer.me)
