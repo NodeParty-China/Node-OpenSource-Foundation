@@ -29,3 +29,4 @@
 | @cuiyongjian | 100.00 | 2017-08-15 | 个人赞助 | [#31](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/31) |
 | @whatwewant | 100.00 | 2017-08-15 | 个人赞助 | [#33](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/33) |
 | @wangerniu | 200.00 | 2017-08-15 | 个人赞助 | 祝nodeParty越办越好. |
+| @Sirormy | 255.00 | 2017-08-15 | 个人赞助 | 祝 JS开源基金会越办越好 |
