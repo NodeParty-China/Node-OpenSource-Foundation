@@ -150,12 +150,13 @@ Commit Message 需按照此格式：
 ![](https://img.shields.io/badge/mindb-500元-green.svg)
 ![](https://img.shields.io/badge/杭NodeParty讲师团-2430元-green.svg)
 
-[<img src="./img/mindb_logo.png" width=150/>](https://github.com/iwillwen/mindb)
+[<img src="https://github.com/Hangzhou-Node-Party/slides/raw/master/logo.png" height=68/>](https://github.com/Hangzhou-Node-Party/slides)
 [<img src="./img/tuer_logo.png" width=150/>](http://www.tuer.me)
 [<img src="./img/san_logo.png" width=150/>](https://ecomfe.github.io/san/)
 [<img src="./img/echarts_logo.png" width=150/>](https://github.com/ecomfe/echarts)
+[<img src="./img/mindb_logo.png" width=150/>](https://github.com/iwillwen/mindb)
 <img src="./img/neitui_logo.png" width=150/>
-[<img src="https://github.com/Hangzhou-Node-Party/slides/raw/master/logo.png" height=68/>](https://github.com/Hangzhou-Node-Party/slides)
+
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
