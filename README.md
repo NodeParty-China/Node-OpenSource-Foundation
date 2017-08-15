@@ -135,10 +135,10 @@ Commit Message 需按照此格式：
 ![](https://img.shields.io/badge/掘金-2000元-green.svg)
 ![](https://img.shields.io/badge/轻山科技-2000元-green.svg)
 
-[![](./img/juejin_logo.png)](https://juejin.im)
-[![](./img/100offer_logo.jpg)](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
-[![](./img/qingshan_logo.png)](http://bbdk.xiaoxinjin.com/)
-[![](./img/youpai_logo.png)](https://www.upyun.com/)
+[<img src="./img/juejin_logo.png" width=150/>](https://juejin.im)
+[<img src="./img/100offer_logo.png" width=150/>](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
+[<img src="./img/qingshan_logo.png" width=150/>](http://bbdk.xiaoxinjin.com/)
+[<img src="./img/youpai_logo.png" width=150/>](https://www.upyun.com/)
 
 感谢以下开源组织或个人组织的赞助：
 
@@ -148,11 +148,11 @@ Commit Message 需按照此格式：
 ![](https://img.shields.io/badge/内推小王子-666元-green.svg)
 ![](https://img.shields.io/badge/mindb-500元-green.svg)
 
-[![](./img/mindb_logo.png)](https://github.com/iwillwen/mindb)
-[![](./img/tuer_logo.png)](http://www.tuer.me)
-[![](./img/san_logo.png)](https://ecomfe.github.io/san/)
-[![](./img/echarts_logo.png)](https://github.com/ecomfe/echarts)
-![](./img/neitui_logo.png)
+[<img src="./img/mindb_logo.png" width=150/>](https://github.com/iwillwen/mindb)
+[<img src="./img/tuer_logo.png" width=150/>](http://www.tuer.me)
+[<img src="./img/san_logo.png" width=150/>](https://ecomfe.github.io/san/)
+[<img src="./img/echarts_logo.png" width=150/>](https://github.com/ecomfe/echarts)
+<img src="./img/neitui_logo.png" width=150/>
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
