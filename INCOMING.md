@@ -23,3 +23,4 @@
 | @老雷  | 233.00 | 2017-08-14 | 个人赞助 | https://github.com/leizongmin |
 | @阴明  | 200.00 | 2017-08-14 | 个人赞助 | https://github.com/kalasoo |
 | @Keystion | 100.00 | 2017-08-15 | 个人赞助 | [#28](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/28) |
+| @TongchengQiu | 111.00 | 2017-08-15 | 个人赞助 | [#29](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/29) |
