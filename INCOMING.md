@@ -31,3 +31,4 @@
 | @wangerniu | 200.00 | 2017-08-15 | 个人赞助 | 祝nodeParty越办越好. |
 | @Sirormy | 255.00 | 2017-08-15 | 个人赞助 | 祝 JS开源基金会越办越好 |
 | @DevinXian | 200.00 | 2017-08-15 | 个人赞助 | 支持杭州 Node-Party，希望能越办越好，给大家带来更多的交流学习机会。 |
+| @杭NodeParty讲师团 | 2430.00 | 2017-08-15 | 组织赞助 | [#37](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/37) |

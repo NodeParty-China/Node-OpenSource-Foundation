@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-19071.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-29%20笔-green.svg) ![](https://img.shields.io/badge/待入账-2430.00%20元-blue.svg) 
+![](https://img.shields.io/badge/余额-21501.88%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-30%20笔-green.svg) ![](https://img.shields.io/badge/待入账-2430.00%20元-blue.svg) 
 
 ## 组织介绍
 
@@ -127,6 +127,7 @@ Commit Message 需按照此格式：
 | @wangerniu | 200.00 | 2017-08-15 | 个人赞助 | [#34](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/34) |
 | @Sirormy | 255.00 | 2017-08-15 | 个人赞助 | [#35](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/35) |
 | @DevinXian | 200.00 | 2017-08-15 | 个人赞助 | [#36](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/36) |
+| @杭NodeParty讲师团 | 2430.00 | 2017-08-15 | 组织赞助 | [#37](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/37) |
 
 感谢以下企业的赞助：
 
@@ -147,12 +148,14 @@ Commit Message 需按照此格式：
 ![](https://img.shields.io/badge/兔耳日记-500元-green.svg)
 ![](https://img.shields.io/badge/内推小王子-666元-green.svg)
 ![](https://img.shields.io/badge/mindb-500元-green.svg)
+![](https://img.shields.io/badge/杭NodeParty讲师团-2430元-green.svg)
 
 [<img src="./img/mindb_logo.png" width=150/>](https://github.com/iwillwen/mindb)
 [<img src="./img/tuer_logo.png" width=150/>](http://www.tuer.me)
 [<img src="./img/san_logo.png" width=150/>](https://ecomfe.github.io/san/)
 [<img src="./img/echarts_logo.png" width=150/>](https://github.com/ecomfe/echarts)
 <img src="./img/neitui_logo.png" width=150/>
+[<img src="https://github.com/Hangzhou-Node-Party/slides/raw/master/logo.png" height=68/>](https://github.com/Hangzhou-Node-Party/slides)
 
 > 活动收入挂在讲师名下记录，其他赞助个人和企业名义记录。
 
@@ -169,8 +172,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 19071.88 元 |
-| **本月收入** | 19071.88 元 |
+| **总额** | 21501.88 元 |
+| **本月收入** | 21501.88 元 |
 | **待入账** | 2430.00 元 |
 | **本月支出** | 0 元 |
 <!-- money end -->
