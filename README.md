@@ -137,7 +137,7 @@ Commit Message 需按照此格式：
 ![](https://img.shields.io/badge/轻山科技-2000元-green.svg)
 
 [<img src="./img/juejin_logo.png" width=150/>](https://juejin.im)
-[<img src="./img/100offer_logo.png" width=150/>](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
+[<img src="./img/100offer_logo.jpg" width=150/>](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
 [<img src="./img/qingshan_logo.png" width=150/>](http://bbdk.xiaoxinjin.com/)
 [<img src="./img/youpai_logo.png" width=150/>](https://www.upyun.com/)
 
