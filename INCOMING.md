@@ -33,3 +33,4 @@
 | @DevinXian | 200.00 | 2017-08-15 | 个人赞助 | 支持杭州 Node-Party，希望能越办越好，给大家带来更多的交流学习机会。 |
 | @杭NodeParty讲师团 | 2430.00 | 2017-08-15 | 组织赞助 | [#37](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/37) |
 | @m31271n | 110.00 | 2017-08-21 | 个人赞助 | [#39](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/39) |
+| @SunilWang | 288.88 | 2017-08-21 | 个人赞助 | 北京Node-Party成员祝杭州Node-Party顺利 288.88元 支付宝-Sunil |
