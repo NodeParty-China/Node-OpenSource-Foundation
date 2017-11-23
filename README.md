@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-20307.26%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-34%20笔-green.svg) ![](https://img.shields.io/badge/待入账-3000.00%20元-blue.svg) 
+![](https://img.shields.io/badge/余额-20187.26%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-34%20笔-green.svg) ![](https://img.shields.io/badge/待入账-3000.00%20元-blue.svg) 
 
 ## 组织介绍
 
@@ -176,10 +176,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 20307.26 元 |
-| **本月收入** | 22134.76 元 |
+| **总额** | 20187.26 元 |
 | **待入账** | 3000.00 元 |
-| **本月支出** | 1997.5 元 |
 <!-- money end -->
 
 ### 余额截图
