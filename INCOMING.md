@@ -36,3 +36,5 @@
 | @SunilWang | 288.88 | 2017-08-21 | 个人赞助 | 北京Node-Party成员祝杭州Node-Party顺利 288.88元 支付宝-Sunil |
 | @xinyu198736 | 234.00 | 2017-08-30 | 个人赞助 | 8月29日，gitchat介绍基金会的分享，收入 234 元。 |
 | @杭NodeParty讲师团 | 3234.00 | 2017-10-23 | 组织赞助 | [#45](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/45) |
+| @Keith-CY | 300.00 | 2017-11-23 | 个人赞助 | [#44](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/44) |
+| @Coding.net | 3000.00 | 2017-11-24 | 企业赞助 | [#46](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/46) |

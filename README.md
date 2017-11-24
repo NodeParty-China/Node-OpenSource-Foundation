@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-23421.26%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-35%20笔-green.svg) ![](https://img.shields.io/badge/待入账-3000.00%20元-blue.svg) 
+![](https://img.shields.io/badge/余额-26721.26%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-37%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0.00%20元-blue.svg) 
 
 ## 组织介绍
 
@@ -131,16 +131,21 @@ Commit Message 需按照此格式：
 | @m31271n | 110.00 | 2017-08-21 | 个人赞助 | [#39](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/39) |
 | @SunilWang | 288.88 | 2017-08-21 | 个人赞助 | [#38](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/38) |
 | @xinyu198736 | 234.00 | 2017-08-30 | 个人赞助 | [#41](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/41) |
-| @杭NodeParty讲师团 | 3234.00 | 2017-10-23 | 组织赞助 | [#45](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/45) |
+| @杭NodeParty讲师团 | 3234.00 | 2017-11-23 | 组织赞助 | [#45](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/45) |
+| @Keith-CY | 300.00 | 2017-11-23 | 个人赞助 | [#44](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/44) |
+| @Coding.net | 3000.00 | 2017-11-24 | 企业赞助 | [#46](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/46) |
+
 感谢以下企业的赞助：
 
 ![](https://img.shields.io/badge/100offer-3000元-green.svg)
 ![](https://img.shields.io/badge/又拍云-3000元-green.svg)
+![](https://img.shields.io/badge/Coding.net-3000元-green.svg)
 ![](https://img.shields.io/badge/掘金-2000元-green.svg)
 ![](https://img.shields.io/badge/轻山科技-2000元-green.svg)
 
 [<img src="./img/juejin_logo.png" width=150/>](https://juejin.im)
 [<img src="./img/100offer_logo.jpg" width=150/>](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
+[<img src="./img/coding.png" width=150/>](https://coding.net)
 [<img src="./img/qingshan_logo.png" width=150/>](http://bbdk.xiaoxinjin.com/)
 [<img src="./img/youpai_logo.png" width=150/>](https://www.upyun.com/)
 
@@ -176,8 +181,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 23421.26 元 |
-| **待入账** | 3000.00 元 |
+| **总额** | 26721.26 元 |
+| **待入账** | 0.00 元 |
 <!-- money end -->
 
 ### 余额截图
