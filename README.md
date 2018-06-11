@@ -90,7 +90,7 @@ Commit Message 需按照此格式：
    > Present Donate: ${日期} ${事项} ${赞助金额}
 
    请在 Issue 里提交联系方式等详细信息。
-2. 由[基金委员会](#基金委员会成员)主事或管理员联系赞助方，接受资金转入（专用支付宝账号：[xinyu198736@gmail.com](mailto:xinyu198736@gmail.com)，收款人姓名：孙信宇），将截图添加到 Issue，并关闭 Issue。
+2. 由[基金委员会](#基金委员会成员)主事或管理员联系赞助方，接受资金转入（专用支付宝账号：[xinyu198736@gmail.com](mailto:xinyu198736@gmail.com)，收款人姓名：孙信宇，委员会保证此账号不会用于个人用途），将截图添加到 Issue，并关闭 Issue。
 3. 主事提交收入记录到 [INCOMING.md](INCOMING.md)。
 4. 主事将赞助对象添加到赞助列表。可带有 Logo 和链接。
 
