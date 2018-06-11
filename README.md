@@ -176,6 +176,7 @@ Commit Message 需按照此格式：
 * [小问](https://github.com/iwillwen)（管理员）- @iwillwen &lt;willwengunn@gmail.com>
 * [闪总](https://github.com/ShiningRay)（管理员）- @ShiningRay &lt;tsowly@hotmail.com>
 * [江昪](https://github.com/glowin)（管理员）- @Glow Chiang &lt;jiangbian66@gmail.com>
+* [枫弦](https://github.com/yuzhigang33)（管理员）- @yuzhigang33 &lt;yuzhigang33@gmail.com>
 
 ## 当前资金池
 
