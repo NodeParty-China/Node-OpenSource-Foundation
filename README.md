@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-26459.45%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-38%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0.00%20元-blue.svg)
+![](https://img.shields.io/badge/余额-29459.45%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-38%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0.00%20元-blue.svg)
 
 ## 组织介绍
 
@@ -135,7 +135,8 @@ Commit Message 需按照此格式：
 | @Keith-CY | 300.00 | 2017-11-23 | 个人赞助 | [#44](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/44) |
 | @Coding.net | 3000.00 | 2017-11-24 | 企业赞助 | [#46](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/46) |
 | @天宇 | 102.40 | 2018-06-11 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/49) |
-| @shitiven | 256.00 | 2018-06-12 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/50) |
+| @shitiven | 256.00 | 2018-06-12 | 个人赞助 | [#50](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/50) |
+| @100offer | 3000.00 | 2018-06-12 | 企业赞助 | [#51](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/51) |
 
 感谢以下企业的赞助：
 
@@ -184,7 +185,7 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 26459.45 元 |
+| **总额** | 29459.45 元 |
 | **待入账** | 0.00 元 |
 <!-- money end -->
 
