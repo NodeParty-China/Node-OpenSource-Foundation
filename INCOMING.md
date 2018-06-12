@@ -39,3 +39,4 @@
 | @Keith-CY | 300.00 | 2017-11-23 | 个人赞助 | [#44](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/44) |
 | @Coding.net | 3000.00 | 2017-11-24 | 企业赞助 | [#46](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/46) |
 | @天宇 | 102.40 | 2018-06-11 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/49) |
+| @shitiven | 256.00 | 2018-06-12 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/50) |
