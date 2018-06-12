@@ -41,3 +41,4 @@
 | @天宇 | 102.40 | 2018-06-11 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/49) |
 | @shitiven | 256.00 | 2018-06-12 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/50) |
 | @100offer | 3000.00 | 2018-06-12 | 企业赞助 | [#51](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/51) |
+| @lbj96347 | 800.00 | 2018-06-12 | 组织赞助 | [#52](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/52) |
