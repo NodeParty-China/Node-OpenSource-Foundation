@@ -144,6 +144,7 @@ Commit Message 需按照此格式：
 
 感谢以下企业的赞助：
 
+![](https://img.shields.io/badge/数澜科技-5000元-green.svg)
 ![](https://img.shields.io/badge/100offer-6000元-green.svg)
 ![](https://img.shields.io/badge/又拍云-3000元-green.svg)
 ![](https://img.shields.io/badge/Coding.net-5000元-green.svg)
