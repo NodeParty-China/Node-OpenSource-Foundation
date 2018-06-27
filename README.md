@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-33953.69%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-40%20笔-green.svg) ![](https://img.shields.io/badge/待入账-7000.00%20元-blue.svg)
+![](https://img.shields.io/badge/余额-33953.69%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-41%20笔-green.svg) ![](https://img.shields.io/badge/待入账-7000.00%20元-blue.svg)
 
 ## 组织介绍
 
@@ -96,49 +96,51 @@ Commit Message 需按照此格式：
 
 ## 赞助列表
 
-| 捐赠者 | 金额(元) | 时间| 收入类型 | Issue |
-|--------|----------|-----|----------|------------|
-| @Keith-CY | 150.00 | 2017-08-02 | 个人赞助 | [#2](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/2) |
-| @longtianye  | 200.88 | 2017-08-02 | 个人赞助 | [#3](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/3) |
-| @xinyu198736  | 2000.00 | 2017-08-06 | 个人赞助 | [#5](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/5) |
-| @huanglong  | 1024.00 | 2017-08-06 | 个人赞助 | [#6](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/6) |
-| @int64ago  | 100.00 | 2017-08-06 | 个人赞助 | [#7](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/7) |
-| @掘金  | 2000.00 | 2017-08-08 | 企业赞助 | [#8](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/8) |
-| @diysimon  | 200.00 | 2017-08-08 | 个人赞助 | [#13](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/13) |
-| @ECharts  | 666.00 | 2017-08-08 | 开源组织赞助 | [#14](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/14) |
-| @SAN  | 666.00 | 2017-08-08 | 开源组织赞助 | [#15](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/15) |
-| @轻山科技  | 2000.00 | 2017-08-09 | 企业赞助（纯公益） | [#16](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/16) |
-| @100offer  | 3000.00 | 2017-08-09 | 企业赞助 | [#17](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/17) |
-| @TevinLi  | 100.00 | 2017-08-10 | 个人赞助 | [#18](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/18) |
-| @又拍云  | 3000.00 | 2017-08-10 | 企业赞助 | [#19](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/19) |
-| @xiaojue  | 500.00 | 2017-08-10 | 个人赞助 | [#20](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/20) |
-| @5265liu  | 100.00 | 2017-08-10 | 个人赞助 | [#21](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/21) |
-| @内推小王子  | 666.00 | 2017-08-11 | 个人赞助 | [#22](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/22) |
-| @mindb  | 500.00 | 2017-08-11 | 开源赞助 | [#23](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/23) |
-| @王子亭  | 200.00 | 2017-08-14 | 个人赞助 | [#24](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/24) |
-| @老雷  | 233.00 | 2017-08-14 | 个人赞助 | [#25](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/25) |
-| @阴明  | 200.00 | 2017-08-14 | 个人赞助 | [#26](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/26) |
-| @Keystion | 100.00 | 2017-08-15 | 个人赞助 | [#28](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/28) |
-| @TongchengQiu | 111.00 | 2017-08-15 | 个人赞助 | [#29](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/29) |
-| @点我达大前端 | 200.00 | 2017-08-15 | 个人赞助 | [#30](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/30) |
-| @yizuierguo | 300.00 | 2017-08-15 | 个人赞助 | [#32](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/32) |
-| @cuiyongjian | 100.00 | 2017-08-15 | 个人赞助 | [#31](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/31) |
-| @whatwewant | 100.00 | 2017-08-15 | 个人赞助 | [#33](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/33) |
-| @wangerniu | 200.00 | 2017-08-15 | 个人赞助 | [#34](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/34) |
-| @Sirormy | 255.00 | 2017-08-15 | 个人赞助 | [#35](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/35) |
-| @DevinXian | 200.00 | 2017-08-15 | 个人赞助 | [#36](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/36) |
-| @杭 NodeParty 讲师团 | 2430.00 | 2017-08-15 | 组织赞助 | [#37](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/37) |
-| @m31271n | 110.00 | 2017-08-21 | 个人赞助 | [#39](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/39) |
-| @SunilWang | 288.88 | 2017-08-21 | 个人赞助 | [#38](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/38) |
-| @xinyu198736 | 234.00 | 2017-08-30 | 个人赞助 | [#41](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/41) |
-| @杭 NodeParty 讲师团 | 3234.00 | 2017-11-23 | 组织赞助 | [#45](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/45) |
-| @Keith-CY | 300.00 | 2017-11-23 | 个人赞助 | [#44](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/44) |
-| @Coding.net | 3000.00 | 2017-11-24 | 企业赞助 | [#46](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/46) |
-| @天宇 | 102.40 | 2018-06-11 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/49) |
-| @shitiven | 256.00 | 2018-06-12 | 个人赞助 | [#50](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/50) |
-| @100offer | 3000.00 | 2018-06-12 | 企业赞助 | [#51](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/51) |
-| @lbj96347 | 800.00 | 2018-06-12 | 组织赞助 | [#52](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/52) |
-| @杭 NodeParty 第六期讲师团 | 7226.40 | 2018-06-27 | 组织赞助 | [#54](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/54) |
+序号 | 捐赠者 | 金额(元) | 时间 | 收入类型 | Issue
+-- | -- | -- | -- | -- | --
+1 | @Keith-CY | 150.00 | 2017-08-02 | 个人赞助 | [#2](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/2)
+2 | @longtianye | 200.88 | 2017-08-02 | 个人赞助 | [#3](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/3)
+3 | @xinyu198736 | 2000.00 | 2017-08-06 | 个人赞助 | [#5](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/5)
+4 | @huanglong | 1024.00 | 2017-08-06 | 个人赞助 | [#6](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/6)
+5 | @int64ago | 100.00 | 2017-08-06 | 个人赞助 | [#7](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/7)
+6 | @掘金 | 2000.00 | 2017-08-08 | 企业赞助 | [#8](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/8)
+7 | @diysimon | 200.00 | 2017-08-08 | 个人赞助 | [#13](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/13)
+8 | @ECharts | 666.00 | 2017-08-08 | 开源组织赞助 | [#14](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/14)
+9 | @SAN | 666.00 | 2017-08-08 | 开源组织赞助 | [#15](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/15)
+10 | @轻山科技 | 2000.00 | 2017-08-09 | 企业赞助（纯公益） | [#16](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/16)
+11 | @100offer | 3000.00 | 2017-08-09 | 企业赞助 | [#17](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/17)
+12 | @TevinLi | 100.00 | 2017-08-10 | 个人赞助 | [#18](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/18)
+13 | @又拍云 | 3000.00 | 2017-08-10 | 企业赞助 | [#19](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/19)
+14 | @xiaojue | 500.00 | 2017-08-10 | 个人赞助 | [#20](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/20)
+15 | @5265liu | 100.00 | 2017-08-10 | 个人赞助 | [#21](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/21)
+16 | @内推小王子 | 666.00 | 2017-08-11 | 个人赞助 | [#22](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/22)
+17 | @mindb | 500.00 | 2017-08-11 | 开源赞助 | [#23](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/23)
+18 | @王子亭 | 200.00 | 2017-08-14 | 个人赞助 | [#24](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/24)
+19 | @老雷 | 233.00 | 2017-08-14 | 个人赞助 | [#25](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/25)
+20 | @阴明 | 200.00 | 2017-08-14 | 个人赞助 | [#26](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/26)
+21 | @Keystion | 100.00 | 2017-08-15 | 个人赞助 | [#28](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/28)
+22 | @TongchengQiu | 111.00 | 2017-08-15 | 个人赞助 | [#29](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/29)
+23 | @点我达大前端 | 200.00 | 2017-08-15 | 个人赞助 | [#30](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/30)
+24 | @yizuierguo | 300.00 | 2017-08-15 | 个人赞助 | [#32](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/32)
+25 | @cuiyongjian | 100.00 | 2017-08-15 | 个人赞助 | [#31](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/31)
+26 | @whatwewant | 100.00 | 2017-08-15 | 个人赞助 | [#33](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/33)
+27 | @wangerniu | 200.00 | 2017-08-15 | 个人赞助 | [#34](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/34)
+28 | @Sirormy | 255.00 | 2017-08-15 | 个人赞助 | [#35](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/35)
+29 | @DevinXian | 200.00 | 2017-08-15 | 个人赞助 | [#36](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/36)
+30 | @杭 NodeParty 讲师团 | 2430.00 | 2017-08-15 | 组织赞助 | [#37](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/37)
+31 | @m31271n | 110.00 | 2017-08-21 | 个人赞助 | [#39](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/39)
+32 | @SunilWang | 288.88 | 2017-08-21 | 个人赞助 | [#38](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/38)
+33 | @xinyu198736 | 234.00 | 2017-08-30 | 个人赞助 | [#41](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/41)
+34 | @杭 NodeParty 讲师团 | 3234.00 | 2017-11-23 | 组织赞助 | [#45](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/45)
+35 | @Keith-CY | 300.00 | 2017-11-23 | 个人赞助 | [#44](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/44)
+36 | @Coding.net | 3000.00 | 2017-11-24 | 企业赞助 | [#46](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/46)
+37 | @天宇 | 102.40 | 2018-06-11 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/49)
+38 | @shitiven | 256.00 | 2018-06-12 | 个人赞助 | [#50](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/50)
+39 | @100offer | 3000.00 | 2018-06-12 | 企业赞助 | [#51](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/51)
+40 | @lbj96347 | 800.00 | 2018-06-12 | 组织赞助 | [#52](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/52)
+41 | @杭 NodeParty 第六期讲师团 | 7226.40 | 2018-06-27 | 组织赞助 | [#54](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/54)
+
+
 
 感谢以下企业的赞助：
 
