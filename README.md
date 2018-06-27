@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-26721.26%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-40%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0.00%20元-blue.svg)
+![](https://img.shields.io/badge/余额-33953.69%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-40%20笔-green.svg) ![](https://img.shields.io/badge/待入账-7000.00%20元-blue.svg)
 
 ## 组织介绍
 
@@ -127,26 +127,28 @@ Commit Message 需按照此格式：
 | @wangerniu | 200.00 | 2017-08-15 | 个人赞助 | [#34](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/34) |
 | @Sirormy | 255.00 | 2017-08-15 | 个人赞助 | [#35](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/35) |
 | @DevinXian | 200.00 | 2017-08-15 | 个人赞助 | [#36](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/36) |
-| @杭NodeParty讲师团 | 2430.00 | 2017-08-15 | 组织赞助 | [#37](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/37) |
+| @杭 NodeParty 讲师团 | 2430.00 | 2017-08-15 | 组织赞助 | [#37](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/37) |
 | @m31271n | 110.00 | 2017-08-21 | 个人赞助 | [#39](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/39) |
 | @SunilWang | 288.88 | 2017-08-21 | 个人赞助 | [#38](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/38) |
 | @xinyu198736 | 234.00 | 2017-08-30 | 个人赞助 | [#41](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/41) |
-| @杭NodeParty讲师团 | 3234.00 | 2017-11-23 | 组织赞助 | [#45](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/45) |
+| @杭 NodeParty 讲师团 | 3234.00 | 2017-11-23 | 组织赞助 | [#45](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/45) |
 | @Keith-CY | 300.00 | 2017-11-23 | 个人赞助 | [#44](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/44) |
 | @Coding.net | 3000.00 | 2017-11-24 | 企业赞助 | [#46](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/46) |
 | @天宇 | 102.40 | 2018-06-11 | 个人赞助 | [#49](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/49) |
 | @shitiven | 256.00 | 2018-06-12 | 个人赞助 | [#50](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/50) |
 | @100offer | 3000.00 | 2018-06-12 | 企业赞助 | [#51](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/51) |
 | @lbj96347 | 800.00 | 2018-06-12 | 组织赞助 | [#52](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/52) |
+| @杭 NodeParty 第六期讲师团 | 7226.40 | 2018-06-27 | 组织赞助 | [#54](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/54) |
 
 感谢以下企业的赞助：
 
-![](https://img.shields.io/badge/100offer-3000元-green.svg)
+![](https://img.shields.io/badge/100offer-6000元-green.svg)
 ![](https://img.shields.io/badge/又拍云-3000元-green.svg)
-![](https://img.shields.io/badge/Coding.net-3000元-green.svg)
+![](https://img.shields.io/badge/Coding.net-5000元-green.svg)
 ![](https://img.shields.io/badge/掘金-2000元-green.svg)
 ![](https://img.shields.io/badge/轻山科技-2000元-green.svg)
 
+[<img src="./img/shulan_logo.jpg" width=150/>](https://www.dtwave.com)
 [<img src="./img/juejin_logo.png" width=150/>](https://juejin.im)
 [<img src="./img/100offer_logo.jpg" width=150/>](https://100offer.com/?utm_source=NodeParty&utm_medium=display&utm_campaign=NodeParty&campaign_code=NodeParty)
 [<img src="./img/coding.png" width=150/>](https://coding.net)
@@ -186,8 +188,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 26721.26 元 |
-| **待入账** | 0.00 元 |
+| **总额** | 33953.69 元 |
+| **待入账** | 7000.00 元 |
 <!-- money end -->
 
 ### 余额截图
