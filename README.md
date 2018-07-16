@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-33953.69%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-41%20笔-green.svg) ![](https://img.shields.io/badge/待入账-7000.00%20元-blue.svg)
+![](https://img.shields.io/badge/余额-36009.15%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-42%20笔-green.svg) ![](https://img.shields.io/badge/待入账-5000.00%20元-blue.svg)
 
 ## 组织介绍
 
@@ -139,7 +139,17 @@ Commit Message 需按照此格式：
 39 | @100offer | 3000.00 | 2018-06-12 | 企业赞助 | [#51](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/51)
 40 | @lbj96347 | 800.00 | 2018-06-12 | 组织赞助 | [#52](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/52)
 41 | @杭 NodeParty 第六期讲师团 | 7226.40 | 2018-06-27 | 组织赞助 | [#54](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/54)
+42 | @Coding.net | 2000.00 | 2018-06-27 | 企业赞助 | [#55](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/55)
 
+## 支出记录
+
+| 支出事项 | 金额(元) | 时间 | 备注 |
+|-------|-----|------------|----------|
+| 杭州第四期nodeparty讲师住宿和聚餐等费用 | 1997.50 | 2017-08-19 | [#40](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/40) |
+| 第五期 NodeParty 组织会议聚餐 | 248.00 | 2017-11-18 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/43) |
+| 杭电计算机社团聚会 | 827.00 | 2017-11-27 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/47) |
+| 2018-6月份活动场地费 | 350.00 | 2018-06-11 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/48) |
+| 2018-6月份活动总消费 | 3573.00 | 2018-06-11 | [#53](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/53) |
 
 
 感谢以下企业的赞助：
@@ -191,8 +201,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 33953.69 元 |
-| **待入账** | 7000.00 元 |
+| **总额** | 36009.15 元 |
+| **待入账** | 5000.00 元 |
 <!-- money end -->
 
 ### 余额截图
