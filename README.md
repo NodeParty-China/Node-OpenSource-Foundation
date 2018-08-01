@@ -140,8 +140,7 @@ Commit Message 需按照此格式：
 40 | @lbj96347 | 800.00 | 2018-06-12 | 组织赞助 | [#52](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/52)
 41 | @杭 NodeParty 第六期讲师团 | 7226.40 | 2018-06-27 | 组织赞助 | [#54](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/54)
 42 | @Coding.net | 2000.00 | 2018-06-27 | 企业赞助 | [#55](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/55)
-43 | @数澜科技 | 5000.00 | 2018-06-27 | 企业赞助冠名 | [#56](https://github
-.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/56)
+43 | @数澜科技 | 5000.00 | 2018-06-27 | 企业赞助冠名 | [#56](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/56)
 
 ## 支出记录
 
