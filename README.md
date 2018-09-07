@@ -1,6 +1,7 @@
 #  NodeParty 开源基金会运作草案 
 
-![](https://img.shields.io/badge/余额-42134.72%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-44%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0%20元-blue.svg)
+![](https://img.shields.io/badge/余额-41625.56%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-44%20笔-green.svg) ![]
+(https://img.shields.io/badge/待入账-0%20元-blue.svg)
 
 ## 组织介绍
 
@@ -152,7 +153,7 @@ Commit Message 需按照此格式：
 | 杭电计算机社团聚会 | 827.00 | 2017-11-27 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/47) |
 | 2018-6月份活动场地费 | 350.00 | 2018-06-11 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/48) |
 | 2018-6月份活动总消费 | 3573.00 | 2018-06-11 | [#53](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/53) |
-
+| nodeparty.foundation 域名续费两年  | 548.59 | 2018-09-07 | [#53](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/59) |
 
 感谢以下企业的赞助：
 
@@ -203,10 +204,10 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总额** | 42134.72 元 |
+| **总额** | 41625.56 元 |
 | **待入账** | 0 元 |
 <!-- money end -->
 
 ### 余额截图
 
-<img src="./img/yue.jpeg" width=300 />
+<img src="./img/yue.jpeg?1" width=300 />
