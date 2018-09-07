@@ -153,7 +153,7 @@ Commit Message 需按照此格式：
 | 杭电计算机社团聚会 | 827.00 | 2017-11-27 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/47) |
 | 2018-6月份活动场地费 | 350.00 | 2018-06-11 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/48) |
 | 2018-6月份活动总消费 | 3573.00 | 2018-06-11 | [#53](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/53) |
-| nodeparty.foundation 域名续费两年  | 548.59 | 2018-09-07 | [#53](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/59) |
+| nodeparty.foundation 域名续费两年  | 548.59 | 2018-09-07 | [#59](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/59) |
 
 感谢以下企业的赞助：
 
