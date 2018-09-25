@@ -158,6 +158,7 @@ Commit Message 需按照此格式：
 | 2018-6月份活动场地费 | 350.00 | 2018-06-11 | [#43](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/48) |
 | 2018-6月份活动总消费 | 3573.00 | 2018-06-11 | [#53](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/53) |
 | nodeparty.foundation 域名续费两年  | 548.59 | 2018-09-07 | [#59](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/59) |
+| 杭州第七期 NodeParty 支出 | 2707.00 | 2018-09-23 | [#60](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/60) |
 
 感谢以下企业的赞助：
 
