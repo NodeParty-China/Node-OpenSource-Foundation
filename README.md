@@ -205,6 +205,7 @@ Commit Message 需按照此格式：
 * [闪总](https://github.com/ShiningRay)（管理员）- @ShiningRay &lt;tsowly@hotmail.com>
 * [江昪](https://github.com/glowin)（管理员）- @Glow Chiang &lt;jiangbian66@gmail.com>
 * [枫弦](https://github.com/yuzhigang33)（管理员）- @yuzhigang33 &lt;yuzhigang33@gmail.com>
+* [Yorkie](https://github.com/yorkie)（管理员）- @yorkie &lt;yorkiefixer@gmail.com>
 
 ## 当前资金池
 
