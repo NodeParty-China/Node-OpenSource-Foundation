@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案
 
-![](https://img.shields.io/badge/余额-46057.03%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-44%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0%20元-blue.svg)
+![](https://img.shields.io/badge/余额-51254.91%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-45%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0%20元-blue.svg)
 
 ## 组织介绍
 
@@ -148,6 +148,7 @@ Commit Message 需按照此格式：
 43 | @数澜科技 | 5000.00 | 2018-06-27 | 企业赞助冠名 | [#56](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/56)
 44 | @达峰的夏天 | 1000.00 | 2018-08-26 | 个人赞助 | [#57](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/57)
 44 | @第七期 NodeParty 讲师团&特别赞助 | 7074.00 | 2018-09-23 | 组织赞助 | [#61](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/61)
+45 | @Rokid | 5000.00 | 2018-11-20 | 企业赞助+冠名 | [#62](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/62)
 
 ## 支出记录
 
