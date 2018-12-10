@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案
 
-![](https://img.shields.io/badge/余额-53704.15%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-46%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0%20元-blue.svg)
+![](https://img.shields.io/badge/余额-58252.17%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-46%20笔-green.svg) ![](https://img.shields.io/badge/待入账-0%20元-blue.svg)
 
 ## 组织介绍
 
@@ -23,19 +23,14 @@
 
 ## 赞助
 
-### 赞助流程（新流程）
-
-1. 通过赞助链接直接在线支付：https://www.bagevent.com/event/1887629
-2. 主事提交记录到赞助列表，并附上赞助者信息。
-
-### 赞助流程（老流程）
+### 赞助流程
 
 1. 赞助方提交 Issue，标题格式如下：
    > Present Donate: ${日期} ${事项} ${赞助金额}
 
    请在 Issue 里提交联系方式等详细信息。
 2. 由[基金委员会](#基金委员会成员)主事或管理员联系赞助方，接受资金转入（专用支付宝账号：[xinyu198736@gmail.com](mailto:xinyu198736@gmail.com)，收款人姓名：孙信宇，委员会保证此账号不会用于个人用途），将截图添加到 Issue，并关闭 Issue。
-3. 主事提交收入记录到 [INCOMING.md](INCOMING.md)。
+3. 主事提交收入记录到 [README.md](README.md)。
 4. 主事将赞助对象添加到赞助列表。可带有 Logo 和链接。
 
 ## 资金管理流程
@@ -150,6 +145,7 @@ Commit Message 需按照此格式：
 44 | @第七期 NodeParty 讲师团&特别赞助 | 7074.00 | 2018-09-23 | 组织赞助 | [#61](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/61)
 45 | @Rokid | 5000.00 | 2018-11-20 | 企业赞助+冠名 | [#62](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/62)
 46 | @Coding.net | 2000.00 | 2018-12-05 | 企业赞助 | [#63](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/63)
+47 | @第八期 NodeParty 讲师团&特别赞助 | 4995.94 | 2018-12-10 | 组织赞助 | [#63](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/64)
 
 ## 支出记录
 
@@ -213,9 +209,9 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总收入** | 62127.56 元 |
+| **总收入** | 67123.5 元 |
 | **总支出** | 10251.09 元 |
-| **余额** | 53704.15 元 |
+| **余额** | 58252.17 元 |
 | **待入账** | 0 元 |
 <!-- money end -->
 
