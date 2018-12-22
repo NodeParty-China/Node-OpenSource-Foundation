@@ -218,3 +218,9 @@ Commit Message 需按照此格式：
 ### 余额截图
 
 <img src="./img/yue.jpeg?1" width=300 />
+
+## 公众号
+
+本组织专用公众号 ID：nodeparty
+
+![](https://img.souche.com/test/9992d24960103eac8dccdfa373732f0d.jpg)
