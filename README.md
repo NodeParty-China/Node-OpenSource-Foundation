@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案
 
-![](https://img.shields.io/badge/余额-58252.17%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-47%20笔-green.svg) 
+![](https://img.shields.io/badge/余额-62520.44%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-48%20笔-green.svg) 
 
 ## 组织介绍
 
@@ -145,7 +145,8 @@ Commit Message 需按照此格式：
 44 | @第七期 NodeParty 讲师团&特别赞助 | 7074.00 | 2018-09-23 | 组织赞助 | [#61](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/61)
 45 | @Rokid | 5000.00 | 2018-11-20 | 企业赞助+冠名 | [#62](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/62)
 46 | @Coding.net | 2000.00 | 2018-12-05 | 企业赞助 | [#63](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/63)
-47 | @第八期 NodeParty 讲师团&特别赞助 | 4995.94 | 2018-12-10 | 组织赞助 | [#63](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/64)
+47 | @第八期 NodeParty 讲师团&特别赞助 | 4995.94 | 2018-12-10 | 组织赞助 | [#64](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/64)
+48 | @贝贝集团 | 3000.00 | 2019-03-25 | 公司赞助 | [#65](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/65)
 
 ## 支出记录
 
@@ -164,9 +165,11 @@ Commit Message 需按照此格式：
 ![](https://img.shields.io/badge/数澜科技-5000元-green.svg)
 ![](https://img.shields.io/badge/100offer-6000元-green.svg)
 ![](https://img.shields.io/badge/又拍云-3000元-green.svg)
+![](https://img.shields.io/badge/贝贝集团-3000元-green.svg)
 ![](https://img.shields.io/badge/Coding.net-5000元-green.svg)
 ![](https://img.shields.io/badge/掘金-2000元-green.svg)
 ![](https://img.shields.io/badge/轻山科技-2000元-green.svg)
+
 
 [<img src="./img/shulan_logo.jpg" width=150/>](https://www.dtwave.com)
 [<img src="./img/juejin_logo.png" width=150/>](https://juejin.im)
@@ -174,6 +177,7 @@ Commit Message 需按照此格式：
 [<img src="./img/coding.png" width=150/>](https://coding.net)
 [<img src="./img/qingshan_logo.png" width=150/>](http://bbdk.xiaoxinjin.com/)
 [<img src="./img/youpai_logo.png" width=150/>](https://www.upyun.com/)
+[<img src="./img/beibei_logo.png" width=150/>](https://www.beibei.com.cn/)
 
 感谢以下开源组织或个人组织的赞助：
 
@@ -209,9 +213,9 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总收入** | 67123.5 元 |
+| **总收入** | 72771.53 元 |
 | **总支出** | 10251.09 元 |
-| **余额** | 58252.17 元 |
+| **余额** | 62520.44 元 |
 | **待入账** | 0 元 |
 <!-- money end -->
 
