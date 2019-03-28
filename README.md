@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案
 
-![](https://img.shields.io/badge/余额-62520.44%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-48%20笔-green.svg) 
+![](https://img.shields.io/badge/余额-63552.37%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-49%20笔-green.svg) 
 
 ## 组织介绍
 
@@ -147,6 +147,7 @@ Commit Message 需按照此格式：
 46 | @Coding.net | 2000.00 | 2018-12-05 | 企业赞助 | [#63](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/63)
 47 | @第八期 NodeParty 讲师团&特别赞助 | 4995.94 | 2018-12-10 | 组织赞助 | [#64](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/64)
 48 | @贝贝集团 | 3000.00 | 2019-03-25 | 公司赞助 | [#65](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/65)
+49 | @Rokid | 1000.00 | 2019-03-28 | 公司赞助 | [#66](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/66)
 
 ## 支出记录
 
@@ -213,15 +214,14 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总收入** | 72771.53 元 |
 | **总支出** | 10251.09 元 |
-| **余额** | 62520.44 元 |
+| **余额** | 63552.37 元 |
 | **待入账** | 0 元 |
 <!-- money end -->
 
 ### 余额截图
 
-<img src="./img/yue.jpeg?1" width=300 />
+<img src="./img/yue.jpeg?12" width=300 />
 
 ## 公众号
 
