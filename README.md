@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案
 
-![](https://img.shields.io/badge/余额-63552.37%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-49%20笔-green.svg) 
+![](https://img.shields.io/badge/余额-66874.02%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-50%20笔-green.svg) 
 
 ## 组织介绍
 
@@ -148,6 +148,7 @@ Commit Message 需按照此格式：
 47 | @第八期 NodeParty 讲师团&特别赞助 | 4995.94 | 2018-12-10 | 组织赞助 | [#64](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/64)
 48 | @贝贝集团 | 3000.00 | 2019-03-25 | 公司赞助 | [#65](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/65)
 49 | @Rokid | 1000.00 | 2019-03-28 | 公司赞助 | [#66](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/66)
+50 | @第九期 NodeParty 讲师团&特别赞助 | 3890.40 | 2019-04-13 | 组织赞助 | [#67](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/67)
 
 ## 支出记录
 
@@ -160,6 +161,7 @@ Commit Message 需按照此格式：
 | 2018-6月份活动总消费 | 3573.00 | 2018-06-11 | [#53](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/53) |
 | nodeparty.foundation 域名续费两年  | 548.59 | 2018-09-07 | [#59](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/59) |
 | 杭州第七期 NodeParty 支出 | 2707.00 | 2018-09-23 | [#60](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/60) |
+| 杭州第九期 NodeParty 支出 | 500.00 | 2019-04-13 | [#68](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/68) |
 
 感谢以下企业的赞助：
 
@@ -214,8 +216,8 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总支出** | 10251.09 元 |
-| **余额** | 63552.37 元 |
+| **总支出** | 10751.09 元 |
+| **余额** | 66874.02 元 |
 | **待入账** | 0 元 |
 <!-- money end -->
 
