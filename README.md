@@ -1,6 +1,6 @@
 #  NodeParty 开源基金会运作草案
 
-![](https://img.shields.io/badge/余额-66874.02%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-50%20笔-green.svg) 
+![](https://img.shields.io/badge/余额-67775.89%20元-green.svg) ![](https://img.shields.io/badge/赞助笔数-50%20笔-green.svg) 
 
 ## 组织介绍
 
@@ -162,6 +162,7 @@ Commit Message 需按照此格式：
 | nodeparty.foundation 域名续费两年  | 548.59 | 2018-09-07 | [#59](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/59) |
 | 杭州第七期 NodeParty 支出 | 2707.00 | 2018-09-23 | [#60](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/60) |
 | 杭州第九期 NodeParty 支出 | 500.00 | 2019-04-13 | [#68](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/68) |
+| 杭州第十期 NodeParty 支出 | 401.00 | 2019-07-27 | [#69](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation/issues/69) |
 
 感谢以下企业的赞助：
 
@@ -216,14 +217,14 @@ Commit Message 需按照此格式：
 <!-- money start -->
 | 款项 | 金额 |
 |------|------|
-| **总支出** | 10751.09 元 |
-| **余额** | 66874.02 元 |
+| **总支出** | 11152.09 元 |
+| **余额** | 67775.89 元 |
 | **待入账** | 0 元 |
 <!-- money end -->
 
 ### 余额截图
 
-<img src="./img/yue.jpeg?12" width=300 />
+<img src="./img/yue.jpeg?123" width=300 />
 
 ## 公众号
 
